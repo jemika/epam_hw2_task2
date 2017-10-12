@@ -3,6 +3,7 @@ public class Equipment {
     private String name;
     private int cost;
 
+
     public Equipment(String name, int cost) {
         this.name = name;
         this.cost = cost;
@@ -29,4 +30,4 @@ public class Equipment {
                 '}';
     }
 
-}
+  }
